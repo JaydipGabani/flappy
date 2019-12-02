@@ -1,1 +1,1 @@
-This app is a game similar to flappy bird. Test
+This app is a game similar to flappy bird. 
