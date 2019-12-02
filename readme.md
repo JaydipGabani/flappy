@@ -1,1 +1,1 @@
-This is a read me
+This app is a game similar to flappy bird.
